@@ -1,0 +1,4 @@
+-La carga de los archivos a mysql se realizo a través de la conexión entre python y sql
+
+-se realizaron todos los cambios propuestos en el proyecto original a través de mysql 
+aunque cabe aclarar que este procedo de transformación hubiera sido más fácil con Pandas directamente
